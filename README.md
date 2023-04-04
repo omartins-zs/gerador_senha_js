@@ -1,1 +1,1 @@
-# gerador_senha_js
+<h1 align="center">Gerador de Senha com JavaScript</h1>
