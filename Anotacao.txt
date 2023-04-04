@@ -4,4 +4,9 @@ Criando Gerador de Senha com JavaScript
 Add link do Tutorial https://www.youtube.com/watch?v=7vPYvPXBq8w&list=PLAMpf2Pxx82srnUmkJO8M9eFvNxZ1I51R&index=31
 
 
+https://coolors.co/26547c-ef476f-ffd166-06d6a0-fcfcfc
+
+https://fonts.google.com/specimen/Poppins
+
+
 Add Repositorio do Tutorial https://github.com/WilliamDosSantos/Gerador-de-senha-JavaScript
