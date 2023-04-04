@@ -7,3 +7,19 @@
     font-family: 'Poppins';
     font-size: x-large;
 }
+
+input {
+    padding: 5px;
+    outline: none;
+    accent-color: blueviolet;
+    border-color: blueviolet;
+}
+
+input[type=checkbox] {
+    width: 18px;
+    height: 18px;
+}
+
+input[type=range] {
+    width: 90%;
+}
