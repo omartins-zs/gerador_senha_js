@@ -45,3 +45,11 @@ input[type=checkbox] {
 input[type=range] {
     width: 90%;
 }
+
+button {
+    background-color: blueviolet;
+    cursor: pointer;
+    color: white;
+    border: none;
+    padding: 5px;
+}
