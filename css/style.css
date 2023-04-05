@@ -44,10 +44,12 @@ input[type=checkbox] {
 
 input[type=range] {
     width: 90%;
+    accent-color: #ef476f;
+    border-color: #ef476f;
 }
 
 button {
-    background-color: blueviolet;
+    background-color: #26547c;
     cursor: pointer;
     color: white;
     border: none;
